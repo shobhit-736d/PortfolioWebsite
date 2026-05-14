@@ -1,0 +1,68 @@
+[
+  {
+    "id": "codebloom",
+    "title": "CodeBloom",
+    "description": "An online code editor for web developers(HTML, CSS, JavaScript) that can help you with your code by providing a live preview of your code.",
+    "type": "Web Development",
+    "headerClass": "p1",
+    "icon": "◈",
+    "tech": ["React", "TailwindCSS", "Vite"],
+    "liveUrl": "#",
+    "repoUrl": "https://github.com/shobhit-736d/online-code-editor"
+  },
+  {
+    "id": "musicplayer",
+    "title": "MusicPlayer",
+    "description": "A music player with a modern UI and a responsive design that can play music from your local library.",
+    "type": "Web Development",
+    "headerClass": "p2",
+    "icon": "⬡",
+    "tech": ["React", "TailwindCSS", "Vite"],
+    "liveUrl": "#",
+    "repoUrl": "https://github.com/shobhit-736d/MusicPlayer"
+  },
+  {
+    "id": "attendance-system",
+    "title": "Attendance System",
+    "description": "An attendance system that can be used to mark attendance of students in a class.",
+    "type": "Web Development",
+    "headerClass": "p3",
+    "icon": "◎",
+    "tech": ["React", "TailwindCSS", "Vite"],
+    "liveUrl": "#",
+    "repoUrl": "https://github.com/shobhit-736d/AttendanceApp"
+  },
+  {
+    "id": "todo-app",
+    "title": "Todo App",
+    "description": "A todo app with a modern UI and a responsive design that can be used to manage your tasks.",
+    "type": "MERN Stack",
+    "headerClass": "p4",
+    "icon": "◻",
+    "tech": ["React", "TailwindCSS", "Vite", "Node.js", "Express", "MongoDB"],
+    "liveUrl": "#",
+    "repoUrl": "https://github.com/shobhit-736d/ToDo_MERN_App"
+  },
+  {
+    "id": "image-gallery",
+    "title": "Image Gallery",
+    "description": "A image gallery with a modern UI and a responsive design that can be used to view images.",
+    "type": "Web Development",
+    "headerClass": "p5",
+    "icon": "◇",
+    "tech": ["React", "TailwindCSS", "Vite"],
+    "liveUrl": "#",
+    "repoUrl": "https://github.com/shobhit-736d/ImageGallery"
+  },
+  {
+    "id": "expense-tracker",
+    "title": "Expense Tracker",
+    "description": "A expense tracker with a modern UI and a responsive design that can be used to track your expenses.",
+    "type": "Web Development",
+    "headerClass": "p6",
+    "icon": "◈",
+    "tech": ["React", "TailwindCSS", "Vite"],
+    "liveUrl": "#",
+    "repoUrl": "https://github.com/shobhit-736d/BudgetApp"
+  }
+]
