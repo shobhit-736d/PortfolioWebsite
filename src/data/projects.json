@@ -7,7 +7,7 @@
     "headerClass": "p1",
     "icon": "◈",
     "tech": ["React", "TailwindCSS", "Vite"],
-    "liveUrl": "#",
+    "liveUrl": "https://online-code-editor-sjnd.vercel.app/",
     "repoUrl": "https://github.com/shobhit-736d/online-code-editor"
   },
   {
@@ -18,7 +18,7 @@
     "headerClass": "p2",
     "icon": "⬡",
     "tech": ["React", "TailwindCSS", "Vite"],
-    "liveUrl": "#",
+    "liveUrl": "https://shobhit-736d.github.io/MusicPlayer/",
     "repoUrl": "https://github.com/shobhit-736d/MusicPlayer"
   },
   {
@@ -29,7 +29,7 @@
     "headerClass": "p3",
     "icon": "◎",
     "tech": ["React", "TailwindCSS", "Vite"],
-    "liveUrl": "#",
+    "liveUrl": "https://attendance-app-peach.vercel.app/",
     "repoUrl": "https://github.com/shobhit-736d/AttendanceApp"
   },
   {
@@ -51,7 +51,7 @@
     "headerClass": "p5",
     "icon": "◇",
     "tech": ["React", "TailwindCSS", "Vite"],
-    "liveUrl": "#",
+    "liveUrl": "https://shobhit-736d.github.io/ImageGallery/",
     "repoUrl": "https://github.com/shobhit-736d/ImageGallery"
   },
   {
@@ -62,7 +62,7 @@
     "headerClass": "p6",
     "icon": "◈",
     "tech": ["React", "TailwindCSS", "Vite"],
-    "liveUrl": "#",
+    "liveUrl": "https://shobhit-736d.github.io/BudgetApp/",
     "repoUrl": "https://github.com/shobhit-736d/BudgetApp"
   }
 ]
